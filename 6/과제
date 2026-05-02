@@ -1,0 +1,60 @@
+Q 01. 
+
+숫자형 연산자를 이용하여 8 * 7^5 + 3^23 + 3 * 6 을 계산하시오.
+
+
+Q 02.
+
+10진수 537이 출력되도록 8진수와 16진수로 입력하여 출력하시오.
+
+
+Q 03.
+
+235를 3으로 나누었을 때 몫과 나머지를 출력하시오.
+
+
+Q 04.
+
+문자열 "20250317Today is good !!"에서 날짜와 나머지 문자열을 구분하여 각각 다른 문자열에 저장하시오.
+
+
+Q 05.
+
+문자열 포매팅을 사용하여 "안녕하세요, 제 이름은 [이름]이고, 나이는 [나이]살입니다."라는 문장을 출력하시오.
+
+
+Q 06.
+
+Format 함수를 사용하여  "안녕하세요, 제 이름은 [이름]이고, 나이는 [나이]살입니다."라는 문장을 출력하시오.
+
+
+Q 07.
+
+format 함수를 사용해서 ***good***을 출력하시오
+
+
+Q 08.
+
+f문자열 포맷과 딕셔너리 자료형을 사용하여  "안녕하세요, 제 이름은 [이름]이고, 나이는 [나이]살입니다."라는 문장을 출력하시오.
+
+
+Q 09.
+
+f문자열 포맷을 사용해서 ***good***을 출력하시오
+
+
+Q 10.
+
+다음 문자열에 대해서 계산하시오.
+
+"Life is like the ocean; sometimes calm and peaceful, sometimes turbulent and rough. The key is how we navigate the waves. Each challenge we face makes us stronger, wiser, and more resilient. So, never lose your positive spirit, keep hope alive, and move forward. Eventually, every storm will pass, and clear skies will return."
+
+
+(1) 문자열의 길이
+
+(2) 문자 'e'의 개수
+
+(3) 문자 'v'의 위치 출력
+
+(4) 위의 문자열을 각 문장으로 구분하여 리스트로 분리하고, 리스트의 각 요소를 대문자로 출력하는 프로그램을 작성하시오.
+
